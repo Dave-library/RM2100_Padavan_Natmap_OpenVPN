@@ -1,5 +1,7 @@
 # natmap 端口映射与自动维护系统（OpenVPN 专用版）
 ## openvpn软件官网https://openvpn.net/client/
+手机版需要跳转到谷歌商店下载，电脑版需要跳转到微软商店下载。
+我从商店获取到了两个文件，一个Android，一个window。Android需要使用MT管理器安装(我是小米手机，也可以使用其他可识别apks文件的软件安装。)，window可直接安装。
 
 > 专为小米/红米路由器（Padavan/老毛子固件）设计的 NAT 穿透与自动维护方案，将路由器上 OpenVPN 服务端的 TCP 61194 端口映射到公网，支持进程保活、防火墙自动修复、微信推送和日志轮转。
 
