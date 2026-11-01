@@ -23,9 +23,17 @@
 ### 效果展示
 
 *微信推送效果*<br/>
-[![微信推送效果](images/wechat-push.png)](https://github.com/Dave-library/RM2100_Padavan_Natmap)<br/><br/>
+[![微信推送效果](images/wechat_push.png)](https://github.com/Dave-library/RM2100_Padavan_Natmap_OpenVPN)<br/><br/>
 *OpenVPN 客户端连接效果*<br/>
-[![OpenVPN 连接效果](images/openvpn-connect.png)](https://github.com/Dave-library/RM2100_Padavan_Natmap)<br/>
+[![OpenVPN 连接效果](images/openvpn_connect.png)](https://github.com/Dave-library/RM2100_Padavan_Natmap_OpenVPN)<br/>
+
+### 部分参数参考-具体配置可以参考其他人的
+*OpenVPN页面参数设置*<br/>
+[![OpenVPN页面参数设置](images/openvpn_edited_configuration.png)](https://github.com/Dave-library/RM2100_Padavan_Natmap_OpenVPN)<br/><br/>
+*OpenVPN证书参数*<br/>
+[![OpenVPN证书参数](images/openvpn_client.ovpn_export.png)](https://github.com/Dave-library/RM2100_Padavan_Natmap_OpenVPN)<br/><br/>
+*client.ovpn参数*<br/>
+[![client.ovpn参数](images/client.ovpn_edit.png)](https://github.com/Dave-library/RM2100_Padavan_Natmap_OpenVPN)<br/><br/>
 
 ---
 
