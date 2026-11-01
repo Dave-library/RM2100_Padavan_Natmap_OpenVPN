@@ -1,4 +1,5 @@
 # natmap 端口映射与自动维护系统（OpenVPN 专用版）
+## openvpn软件官网https://openvpn.net/client/
 
 > 专为小米/红米路由器（Padavan/老毛子固件）设计的 NAT 穿透与自动维护方案，将路由器上 OpenVPN 服务端的 TCP 61194 端口映射到公网，支持进程保活、防火墙自动修复、微信推送和日志轮转。
 
